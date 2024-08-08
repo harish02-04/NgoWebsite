@@ -1,4 +1,4 @@
-# RMK Foundation Websites
+# 🍁RMK Foundation Websites
 
 ## Overview
 
@@ -15,15 +15,6 @@ Download the demo video to see the websites in action:
 
 - **[Download Demo Video]("Demo.mp4")**
 
-## Screenshots
-
-Below are screenshots from the websites:
-
-- **RMK Foundation Main Website**:
-  ![RMK Foundation Main Website](screenshots/rmk-foundation-main.png)
-
-- **One Student One Tree Initiative**:
-  ![One Student One Tree Initiative](screenshots/one-student-one-tree.png)
 
 ## Technologies Used
 
@@ -36,12 +27,12 @@ Below are screenshots from the websites:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rmk-foundation-websites.git
+    git clone https://github.com/harish02-04/NgoWebsite.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd rmk-foundation-websites
+    cd Ngowebsite
     ```
 
 3. Open the `index.html` file in your preferred web browser to view the websites.
